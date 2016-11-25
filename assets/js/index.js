@@ -177,7 +177,7 @@ $(function() {
         nav: true,
         dots: false,
         navText: ['<i class="fa fa-minus-square"></i>', '<i class="fa fa-plus-square"></i>'],
-        responsive: { 600: { items: 3 }, 1000: { items: 4 }, 1600: { items: 6 } }
+        responsive: { 600: { items: 3 }, 1000: { items: 4 }}
     });
 
     /* maximList 调用插件 */
