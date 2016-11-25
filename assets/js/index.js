@@ -201,6 +201,7 @@ $(function() {
     $('#backTop a').click(function() {
         var scroll = $(window).scrollTop();
         $.posScroll(scroll, 0);
+        return false;
     });
 
     /* 流光折线 */
