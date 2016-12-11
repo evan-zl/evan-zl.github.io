@@ -95,7 +95,7 @@
                             width: 100,
                             radius: 45,
                             arc: 5,
-                            perent: arr[i],
+                            perent: this.arr[i],
                             color: ['#fff', '#373737'],
                             textColor: '#373737',
                             textSize: '30px',
