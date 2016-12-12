@@ -52,7 +52,7 @@ $(function() {
     var onOff = true;
     var skillProgess = function(onOff) {
         if (onOff) {
-            var paArr = [95, 95, 85, 80, 90, 60];
+            var paArr = [95, 95, 85, 85, 80, 60];
             $.progressBar('drawRing', paArr);
         }
     }
